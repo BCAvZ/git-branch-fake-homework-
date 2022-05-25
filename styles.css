@@ -7,6 +7,8 @@
 article{
     background-color: yellow;
     color:orange;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 
