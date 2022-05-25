@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+article{
+    background-color: yellow;
+    color:orange;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
